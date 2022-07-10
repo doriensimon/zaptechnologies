@@ -1,0 +1,74 @@
+{
+    "chargers": [
+        {
+            "uid": "1",
+            "chargerName": "Craig Daniels",
+            "geohash": null,
+            "address": "1234 Street Court, Camarillo, CA",
+            "chargerTypes": [],
+            "rate": 1.00,
+            "chargerSpecs": {
+                "volts": 110,
+                "amps": 50
+            },
+            "rating": 4.8,
+            "reviews": []
+        },
+        {
+            "uid": "2",
+            "chargerName": "Cameron Brink",
+            "geohash": null,
+            "address": "345 Escondido Drive, Stanford, CA",
+            "chargerTypes": [],
+            "rate": 3.22,
+            "chargerSpecs": {
+                "volts": 135,
+                "amps": 75
+            },
+            "rating": 2.5,
+            "reviews": []
+        },
+        {
+            "uid": "3",
+            "chargerName": "Elon Musk",
+            "geohash": null,
+            "address": "3323 Money Lane, Montecito, CA",
+            "chargerTypes": [],
+            "rate": 15.1,
+            "chargerSpecs": {
+                "volts": 330,
+                "amps": 180
+            },
+            "rating": 1.2,
+            "reviews": []
+        },
+        {
+            "uid": "4",
+            "chargerName": "Jarius Cooper",
+            "geohash": null,
+            "address": "234 Campus Drive, Palo Alto, CA",
+            "chargerTypes": [],
+            "rate": 4.00,
+            "chargerSpecs": {
+                "volts": 110,
+                "amps": 50
+            },
+            "rating": 4.1,
+            "reviews": []
+        },
+        {
+            "uid": "5",
+            "chargerName": "Tom Hanks",
+            "geohash": null,
+            "address": "2343 Castaway Drive, Hollywood, CA",
+            "chargerTypes": [],
+            "rate": 3.52,
+            "chargerSpecs": {
+                "volts": 220,
+                "amps": 80
+            },
+            "rating": 5.0,
+            "reviews": []
+        }
+    ]
+}

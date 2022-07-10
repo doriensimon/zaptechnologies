@@ -1,0 +1,19 @@
+#parent {
+    background-image: linear-gradient(#eaf5f5, 90%, #FAD02C);
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 100vh;
+}
+
+#no-account {
+    color: #373c3c;
+    display: flex;
+    align-self: center;
+    font-size: larger;
+    font-family: Roboto, Arial, Helvetica, sans-serif;
+}
+
+#no-account > p {
+    color: #373c3c;
+}

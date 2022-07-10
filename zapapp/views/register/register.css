@@ -1,0 +1,32 @@
+#parent {
+    background-image: linear-gradient(#373c3c, 90%, #FAD02C);
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 100vh;
+}
+
+#register-items {
+    display: flex;
+    flex-direction: column;
+    align-self: center;
+}
+
+#has-account {
+    color: #373c3c;
+    display: flex;
+    align-self: center;
+    font-size: larger;
+    font-family: Roboto, Arial, Helvetica, sans-serif;
+}
+
+#has-account > p {
+    color: #373c3c;
+}
+
+#register-error {
+    color: red;
+    font-family: Roboto, Arial, Helvetica, sans-serif;
+    align-self: center;
+    font-size: small;
+}
